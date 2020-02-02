@@ -1,2 +1,2 @@
 # hello-world
-Its my first repository in github.
+Its my first repository in github. I am Md. Asif Shahriar. I just have completed my BBA degree. Now I am searching for Jobs. When i am started using linux, coding, programming, terminal commands and github are always very facinating for me. But I dont now anything about those. Now i am learning the python. Hopefully, i will get to know something. I have edited the code to know how branches work. 
